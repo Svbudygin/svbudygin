@@ -15,7 +15,8 @@ Back-End developer
 - ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-svbudygin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/svbudygin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svbudygin@gmail.com)
 
 
-### Technologies I've been working with:
+Technologies I've been working with:
+-------------------
 <div>  
 
 
