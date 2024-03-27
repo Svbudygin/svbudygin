@@ -1,7 +1,7 @@
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sergei Budygin!
 ==========================================================================================================================================
 
-Back-End developer
+Back-End/ML developer
 --------------------
   <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
