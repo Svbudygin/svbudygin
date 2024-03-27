@@ -1,12 +1,14 @@
 ### Hello 👋, I'm Sergei Budygin, Back-End developer👨‍💻
 
-  
+  <p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 - 🔭 I'm getting a bachelor's degree in Moscow at the HSExLSE
 
 - ⚡ TOP-1 Student of the Faculty of Data Science and Business Analysis (https://www.hse.ru/ba/data/ratings)
   
-- ✉️  You can contact me at [svbudygin@gmail.com](mailto:svbudygin@gmail.com)
+- ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-svbudygin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/svbudygin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svbudygin@gmail.com)
 
 
 ### Technologies I've been working with:
