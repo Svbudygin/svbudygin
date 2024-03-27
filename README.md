@@ -2,11 +2,11 @@
 
   
 
-- 🔭 Study in Moscow Computer Science in HSExLSE TOP-1 Student of the Faculty of Data Science and Business Analysis (https://www.hse.ru/ba/data/ratings)
+- 🔭 I'm getting a bachelor's degree in Moscow at the HSExLSE
+
+- ⚡ TOP-1 Student of the Faculty of Data Science and Business Analysis (https://www.hse.ru/ba/data/ratings)
   
 - ✉️  You can contact me at [svbudygin@gmail.com](mailto:svbudygin@gmail.com)
-  
-<br/>  
 
 
 ### Technologies I've been working with:
