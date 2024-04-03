@@ -70,6 +70,7 @@ Technologies
   <a href="#"><img src="https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-QT-black?style=for-the-badge&logo=qt3&logoColor=white"></a>
 </div>
 
 <br/>  
