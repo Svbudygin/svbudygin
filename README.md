@@ -13,10 +13,3 @@ Back-End/ML developer
 - ⚡ [TOP-1 Student](https://www.hse.ru/ba/data/ratings) of the Faculty of Data Science and Business Analysis
   
 - ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-svbudygin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/svbudygin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svbudygin@gmail.com)
-
-
-
-## Github Stats  
-<img style="margin:10px; padding:10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=svbudygin&show_icons=true&theme=tokyonight"/>
-<img style="margin:10px; padding:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svbudygin&theme=tokyonight&hide_progress=true"/>
-<img style="margin:10px; padding:10px;" src="https://github-readme-streak-stats.herokuapp.com?user=svbudygin&theme=tokyonight"/>
